@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
         title: Text("Todo App"),
         elevation: 0,
         centerTitle: true,
-        backgroundColor: Colors.yellow[600],
+        backgroundColor: Colors.yellow[500],
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: createNewTask,
